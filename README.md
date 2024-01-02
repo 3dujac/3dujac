@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @3dujac
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-3dujac/3dujac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in continuous learning in IT, but especially in DevOps tools.
+- 🌱 I’m currently learning this technology, but as the wise man said, the master knows that he will never cease to be a pupil.
+- 💞️ I’m not looking to collaborate on any projects but would be interested in doing so in the future.
+- 📫 You can reach me on direct messages in this site if you want.
